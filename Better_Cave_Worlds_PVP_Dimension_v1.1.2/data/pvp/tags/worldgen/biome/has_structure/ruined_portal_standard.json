@@ -1,0 +1,16 @@
+{
+  "values": [
+    "#pvp:is_beach",
+    "#pvp:is_river",
+    "#pvp:is_taiga",
+    "#pvp:is_forest",
+    "pvp:mushroom_fields",
+    "pvp:ice_spikes",
+    "pvp:dripstone_caves",
+    "pvp:lush_caves",
+    "pvp:savanna",
+    "pvp:snowy_plains",
+    "pvp:plains",
+    "pvp:sunflower_plains"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "values": [
+    "pvp:frozen_ocean",
+    "pvp:cold_ocean",
+    "pvp:ocean",
+    "pvp:deep_frozen_ocean",
+    "pvp:deep_cold_ocean",
+    "pvp:deep_ocean"
+  ]
+}

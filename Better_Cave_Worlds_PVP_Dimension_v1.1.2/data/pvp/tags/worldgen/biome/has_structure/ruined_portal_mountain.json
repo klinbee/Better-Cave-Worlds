@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#pvp:is_badlands",
+    "#pvp:is_hill",
+    "pvp:savanna_plateau",
+    "pvp:windswept_savanna",
+    "pvp:stony_shore",
+    "#pvp:is_mountain"
+  ]
+}

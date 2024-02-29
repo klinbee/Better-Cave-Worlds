@@ -1,0 +1,26 @@
+{
+  "values": [
+    "#pvp:is_ocean",
+    "#pvp:is_river",
+    "#pvp:is_beach",
+    "#pvp:is_mountain",
+    "#pvp:is_hill",
+    "#pvp:is_taiga",
+    "#pvp:is_jungle",
+    "#pvp:is_forest",
+    "pvp:stony_shore",
+    "pvp:mushroom_fields",
+    "pvp:ice_spikes",
+    "pvp:windswept_savanna",
+    "pvp:desert",
+    "pvp:savanna",
+    "pvp:snowy_plains",
+    "pvp:plains",
+    "pvp:sunflower_plains",
+    "pvp:swamp",
+    "pvp:mangrove_swamp",
+    "pvp:savanna_plateau",
+    "pvp:dripstone_caves",
+    "pvp:lush_caves"
+  ]
+}

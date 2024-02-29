@@ -1,0 +1,11 @@
+{
+  "values": [
+    "pvp:desert",
+    "pvp:plains",
+    "pvp:savanna",
+    "pvp:snowy_plains",
+    "pvp:taiga",
+    "#pvp:is_mountain",
+    "pvp:grove"
+  ]
+}
